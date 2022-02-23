@@ -4,14 +4,8 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "author": "amritanshu",
-  "license": "ISC",
-  "dependencies": {
-    "slugify": "^1.6.5"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.15"
-  }
+  "license": "ISC"
 }
